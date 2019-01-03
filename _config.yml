@@ -1,4 +1,2 @@
-theme: jekyll-theme-minimal
-title: "Shruthi Venkatesh"
-logo: "Center"
-show_downloads: False
+	name: Shruthi Venkatesh
+	markdown: kramdown
