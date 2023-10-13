@@ -25,7 +25,7 @@ Despite the continuing US hospital merger wave, it remains unclear how mergers c
 
 
 ## Selected Work in Progress 
-**The Effect of Hospital-Physician Integration on Medicare Referrals**  
+**The Effects of Hospital-Physician Integration on Referrals: Evidence from Medicare**  
 Media coverage: [Wall Street Journal](https://www.wsj.com/articles/the-hidden-system-that-explains-how-your-doctor-makes-referrals-11545926166)
 <details>
 <summary>Show Abstract</summary>
