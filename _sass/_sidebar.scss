@@ -24,7 +24,6 @@
     }
   }
 
-
   @include breakpoint($x-large) {
     padding-right: 0;
   }
@@ -45,7 +44,7 @@
   }
 
   img {
-    width: 100%;
+    width: 125%;
   }
 }
 
@@ -72,10 +71,8 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 75px;
-  height: 70px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  width: 36px;
+  height: 36px;
 
   @include breakpoint($large) {
     display: block;
@@ -85,7 +82,7 @@
 
   img {
     max-width: 175px;
-    // border-radius: 50%;
+    border-radius: 50%;
 
     @include breakpoint($large) {
       padding: 5px;
