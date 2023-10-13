@@ -20,12 +20,18 @@ Abstract: Consolidation between hospitals and physician practices is a ubiquitou
 [**The Anatomy of a Hospital System Merger: The Patient Did Not Respond Well to Treatment**](http://shruthi-venkatesh.github.io/files/GSSSV-Hospital-Merger-2023-09.pdf)  
 with Martin Gaynor, Adam Sacarny, Raffaella Sadun, Chad Syverson. [NBER Working Paper No. 29449](https://www.nber.org/papers/w29449), accepted at *The Review of Economics and Statistics* 
 <details>
-<summary>
+<summary>Show Abstract</summary>
 Despite the continuing US hospital merger wave, it remains unclear how mergers change, or fail to change, hospital behavior and performance. We open the “black box” of hospital practices through a mega-merger between two for-profit chains. Benchmarking the merger’s effects against the acquirer’s stated aims, we show they achieved some of their goals, harmonizing electronic medical records and sending managers to target hospitals. Post-acquisition managerial processes were similar across the merged chain. However, these interventions failed to drive detectable gains in performance. Our findings demonstrate the importance of organizations for merger research in health care and the economy more generally.
 </details>
 
 
 ## Work in Progress 
+**The Effect of Hospital-Physician Integration on Medicare Referrals**  
+Media coverage: [Wall Street Journal](https://www.wsj.com/articles/the-hidden-system-that-explains-how-your-doctor-makes-referrals-11545926166)
+<details>
+<summary>Show Abstract</summary>
+I examine the effect of hospital-physician practice acquisition on outpatient physician referral choice using the universe of Medicare claims data from 2007-2012. I use panel difference-in-difference regressions to document a .07 to .10 increase in the av- erage probability that an acquired physician refers to the owning hospital post-merger.This effect represents a nine-fold increase relative to the baseline probability of physi- cian referral to the owning hospital and remains stable over two years after the acquisi- tion date. Moreover, acquired physicians’ increase in referrals to the owning hospital is driven almost entirely by a reduction in their referrals to independently owned physi- cian practices.
+</details>
 
 
 
