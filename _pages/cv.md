@@ -10,5 +10,6 @@ redirect_from:
 
 [Download CV](http://shruthi-venkatesh.github.io/files/Shruthi_Venkatesh_CV_Oct2023.pdf)  
 
-<embed src="http://shruthi-venkatesh.github.io/files/Shruthi_Venkatesh_CV_Oct2023.pdf" width="600" height="700" type='application/pdf' /> 
+
+<object data="{{ site.url }}{{ site.baseurl }}/files/Shruthi_Venkatesh_CV_Oct2023.pdf" width="1000" height="1000" type="application/pdf"></object>
 
