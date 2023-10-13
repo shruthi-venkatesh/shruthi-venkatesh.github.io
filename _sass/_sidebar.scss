@@ -72,7 +72,7 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
-  height: 70px;
+  height: px;
 
   @include breakpoint($large) {
     display: block;
@@ -80,7 +80,7 @@
     height: auto;
   }
 
-img {
+  img {
     max-width: 200px;
     border-radius: 0%;
 
@@ -89,6 +89,7 @@ img {
       border: 0px solid $border-color;
     }
   }
+}
 
 .author__content {
   display: table-cell;
