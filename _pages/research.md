@@ -17,7 +17,7 @@ Consolidation between hospitals and physician practices is a ubiquitous feature 
 
 ## Publications 
 [**The Anatomy of a Hospital System Merger: The Patient Did Not Respond Well to Treatment**](http://shruthi-venkatesh.github.io/files/GSSSV-Hospital-Merger-2023-09.pdf)  
-with Martin Gaynor, Adam Sacarny, Raffaella Sadun, Chad Syverson. [NBER Working Paper No. 29449](https://www.nber.org/papers/w29449),accepted at *The Review of Economics and Statistics* 
+with Martin Gaynor, Adam Sacarny, Raffaella Sadun, Chad Syverson. [NBER Working Paper No. 29449](https://www.nber.org/papers/w29449), accepted at *The Review of Economics and Statistics* 
 <details>
 <summary>Show Abstract</summary>
 Despite the continuing US hospital merger wave, it remains unclear how mergers change, or fail to change, hospital behavior and performance. We open the “black box” of hospital practices through a mega-merger between two for-profit chains. Benchmarking the merger’s effects against the acquirer’s stated aims, we show they achieved some of their goals, harmonizing electronic medical records and sending managers to target hospitals. Post-acquisition managerial processes were similar across the merged chain. However, these interventions failed to drive detectable gains in performance. Our findings demonstrate the importance of organizations for merger research in health care and the economy more generally.
