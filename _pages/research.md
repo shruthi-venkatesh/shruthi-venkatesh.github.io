@@ -10,7 +10,7 @@ author_profile: true
 *Draft Coming Soon*  
 <details>
 <summary>Show Abstract</summary>
-Abstract: Consolidation between hospitals and physician practices is a ubiquitous feature of health care markets across the US. This paper examines the impacts of hospital-physician prac- tice acquisition on physician referrals, hospital prices, and welfare using detailed administrative claims data from the Massachusetts APCD. I find that the effects vary substantially across dom- inant and non-dominant hospital systems in the state. Among non-dominant hospitals, acquisi- tion leads to a 20 percentage point increase in within-system referral rates and to higher hospital prices. In contrast, physician practice acquisition by a dominant hospital does not meaningfully shift referrals nor raise negotiated prices. To rationalize these empirical observations, I develop a bargaining model of competition and use the estimates to evaluate the effects of changes in physician practice ownership. The model demonstrates how changes in referral demand due to practice consolidation enhances the bargaining leverage of the acquiring hospital system. I then simulate the hospital acquisition of every physician practice in the state, and I find that hospital prices increase by $198.58 per admission, though effects are larger across non-dominant firms. Higher payments to hospitals decrease insurer surplus. Patient welfare declines due to shifts in physician referrals post-acquisition.
+Consolidation between hospitals and physician practices is a ubiquitous feature of health care markets across the US. This paper examines the impacts of hospital-physician practice acquisition on physician referrals, hospital prices, and welfare using detailed administrative claims data from the Massachusetts APCD. I find that the effects vary substantially across dominant and non-dominant hospital systems in the state. Among non-dominant hospitals, acquisition leads to a 20 percentage point increase in within-system referral rates and to a 6% to 20% increase in hospital prices. In contrast, physician practice acquisition by a dominant hospital does not meaningfully shift referrals nor raise negotiated prices. To rationalize these empirical observations, I develop a bargaining model of competition and use the estimates to evaluate the effects of changes in physician practice ownership. The model demonstrates how changes in referral demand due to practice consolidation enhances the bargaining leverage of the acquiring hospital system. I then simulate the hospital acquisition of every physician practice in the state, and I find that hospital prices increase by .72 percent or $198.58 per admission, though effects are larger across non-dominant firms. Higher payments to hospitals decrease insurer surplus by 18.83% or \$18,231 per enrollee. Patient welfare declines by 21.91%, or $185.25 per individual, due to shifts in physician referrals post-acquisition. 
 </details>
 
 
@@ -25,6 +25,9 @@ Despite the continuing US hospital merger wave, it remains unclear how mergers c
 
 
 ## Selected Work in Progress 
+**Impact of Increasing Hospital Price Transparency: Collusion, Search, and Equilibrium Price**, with Elena Prager, Maryam Saeedi and Robert Town.  
+
+
 **The Effects of Hospital-Physician Integration on Referrals: Evidence from Medicare**  
 Media coverage: [Wall Street Journal](https://www.wsj.com/articles/the-hidden-system-that-explains-how-your-doctor-makes-referrals-11545926166)
 <details>
