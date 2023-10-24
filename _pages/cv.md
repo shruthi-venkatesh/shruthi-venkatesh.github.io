@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-[Download CV](http://shruthi-venkatesh.github.io/files/Shruthi_Venkatesh_CV_Oct2023.pdf)  
+[Download CV](http://shruthi-venkatesh.github.io/files/CV_Shruthi_Venkatesh.pdf)  
 
 
-<object data="{{ site.url }}{{ site.baseurl }}/files/Shruthi_Venkatesh_CV_Oct2023.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/files/CV_Shruthi_Venkatesh.pdf" width="1000" height="1000" type="application/pdf"></object>
 
