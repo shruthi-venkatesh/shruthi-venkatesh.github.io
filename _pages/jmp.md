@@ -3,8 +3,6 @@ layout: archive
 title: "Job Market Paper"
 permalink: /jmp/
 author_profile: true
-redirect_from:
-  - /jmp/
 ---
 
 
