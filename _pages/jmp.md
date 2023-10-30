@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 
-[Click Here to Download](http://shruthi-venkatesh.github.io/files/JMP_ShruthiVenkatesh_Oct2023.pdf)  
+[Click here to download](http://shruthi-venkatesh.github.io/files/JMP_ShruthiVenkatesh_Oct2023.pdf)  
 
