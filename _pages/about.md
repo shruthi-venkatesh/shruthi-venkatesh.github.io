@@ -10,4 +10,4 @@ redirect_from:
 
 Welcome! I am a PhD Candidate at Carnegie Mellon University studying health and industrial organization. My research explores the relationships between competition in health care markets, provider decision-making, and patient outcomes. I am on the 2023-2024 job market.   
 
-[Download CV](http://shruthi-venkatesh.github.io/files/CV_Shruthi_Venkatesh.pdf)
+[Download CV](http://shruthi-venkatesh.github.io/files/CV_ShruthiVenkatesh_Oct2023.pdf)
