@@ -11,5 +11,5 @@ redirect_from:
 Welcome! I am a PhD Candidate at Carnegie Mellon University studying health and industrial organization. My research explores the relationships between competition in health care markets, provider decision-making, and patient outcomes.  
 
  <br> 
-I will be joining the Federal Trade Commission in August 2024. 
+I will be joining the Federal Trade Commission's Bureau of Economics in August 2024. 
 
