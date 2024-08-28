@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD Candidate at Carnegie Mellon University studying health and industrial organization. My research explores the relationships between competition in health care markets, provider decision-making, and patient outcomes.  
+I am an Economist at the Federal Trade Commission. I received my PhD from Carnegie Mellon University in May 2024. My research focuses on competition in health care markets. 
 
- <br> 
-I will be joining the Federal Trade Commission's Bureau of Economics in August 2024. 
 

@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shruthi Venkatesh"
   avatar           : "profile3copy2.png"
-  bio              : "PhD Candidate"
-  location         : "Carnegie Mellon University"
+  bio              : "Economist"
+  location         : "Federal Trade Commission"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=_Mf8AiMAAAAJ&hl=en"
-  email            :  "shruthiv@cmu.edu"
+  email            :  "svenkatesh@ftc.gov"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
